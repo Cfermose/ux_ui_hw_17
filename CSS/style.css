@@ -35,5 +35,7 @@ ul {
 
 footer {
     background-color:blue;
+    display:inline-block;
+    vertical-align: top;
 
 }
