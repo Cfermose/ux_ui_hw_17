@@ -15,6 +15,12 @@ width:73%;
 padding:1%;
 }
 
+.navigation {
+    background-color: black;
+    color: white;
+
+}
+
 ul {
     width:50%;
     margin-left: auto;
@@ -37,5 +43,14 @@ footer {
     background-color:blue;
     display:inline-block;
     vertical-align: top;
+    margin: 0 auto;
 
 }
+
+.contact {
+    display:inline-block;
+    vertical-align: top;
+    padding: 50px
+}
+
+
