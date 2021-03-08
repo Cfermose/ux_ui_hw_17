@@ -1,13 +1,20 @@
+
+
 .inline-block {
-    display: inline-block;
+    display: flex;
     vertical-align: top;
+    background: rgb (12, 12, 12, 0.8);
+    padding: 20px;
+    align-items: vertical;
 
 }
 
 .logo {
-    width:23%;
+    width:108px;
+    height: 109px;
     padding:1%;
     text-align: center;
+    background-color: black;
 }
 
 nav {
@@ -16,8 +23,8 @@ padding:1%;
 }
 
 .navigation {
-    background-color: black;
-    color: white;
+    background-color: rgba (12, 12, 12, 0.8);
+    color: black;
 
 }
 
